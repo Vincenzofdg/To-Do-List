@@ -1,9 +1,9 @@
-import Day from './components/Day';
+import Header from './components/Header';
 
 function App() {
   return (
-    <>
-      <Day />
+    <>  
+      <Header />
     </>
   );
 }
